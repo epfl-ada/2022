@@ -123,7 +123,7 @@ Please read [this tutorial](good_coding_practices.ipynb).
 
 ## Part 4: Homework 0
 
-Access Homework 0 (OPTIONAL and UNGRADED) [here](https://github.com/epfl-ada/2022/tree/master/Homework/00%20-%20Optional%20Homework). Clone the repo locally and take the opportunity to freshen up your Python skills, or to acquire them.
+Access Homework 0 (OPTIONAL and UNGRADED) [here](https://github.com/epfl-ada/2022/tree/main/Homework/00%20-%20Optional%20Homework). Clone the repo locally and take the opportunity to freshen up your Python skills, or to acquire them.
 
 ## Common issues
 
