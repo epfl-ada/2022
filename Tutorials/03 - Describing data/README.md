@@ -1,4 +1,4 @@
-# 02 - Describing data
+# 03 - Describing data
 
 In this exercise we explore the basic features of Python libraries for statistical analysis and we practice using them.
 
