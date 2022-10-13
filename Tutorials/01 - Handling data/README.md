@@ -1,6 +1,6 @@
 # 01 - Handling data
 
-In this tutorial session we explore the (1.1) fundamental features of [Pandas](http://pandas.pydata.org/), (1.2) we practice the basics of Data Wrangling. When you are (or if you already are) familiar with Pandas, you can move to (2) the execise notebook.
+In this tutorial session (1.1) we explore the fundamental features of [Pandas](http://pandas.pydata.org/), and (1.2) we practice the basics of Data Wrangling. When you are (or if you already are) familiar with Pandas, you can move to (2), the execise notebook.
 
 ---
 
