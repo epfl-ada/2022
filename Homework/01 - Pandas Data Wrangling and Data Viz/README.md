@@ -16,7 +16,7 @@ You are expected to solve the homework as a team of *four*, which you specified 
 2. Creation of the team will automatically create a dedicated private repo. At this point the remaining three team-members should follow the [same link](https://classroom.github.com/a/KDhOxtiq) and join their team. *Make sure you are joining the correct team by checking your team-members' GitHub accounts: there might be teams with similar or same names.*
 3. There is no simple automated way to transfer the materials for Homework 1 from the public course repository into your private team repository. To get started, we suggest that you manually pull the homework materials from the course repository to your local machine, copy them into your local team repository, and push to the remote.
 4. Afterwards -- keep collaborating on the homework as a team in your shared private repository.
-5. Most importantly, don’t forget to push the final solved version by **October 22nd, 23:59**!
+5. Most importantly, don’t forget to push the final solved version by **October 29th, 23:59**!
 
 ### Deliverables
 1. `hw1.ipynb` notebook with disclosed output for each cell. **Please don't update the `data` folder provided in the repository, i.e., use it in read-only mode.**
