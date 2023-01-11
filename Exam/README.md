@@ -38,15 +38,14 @@ We allow a grace period of 15 minutes for you to submit your solved IPython note
 8. You are allowed to use any built-in Python library that comes with Anaconda.
 9. You are allowed to use [Google Colab](https://colab.research.google.com/) or [EPFL Noto](https://noto.epfl.ch), however, it's your responsibility to ensure that the required Python packages (see the section [Conda environment](#Conda-environment) for details) are accessible in the execution environment and platform of choice.
 10. There are **three tasks:** 1, 2, and 3, which are further split into several subtasks.
-11. The tasks are **independent** of each other, and you can solve them in your order of preference.
-12. For questions containing the **/Discuss:/** prefix, answer not with code, but with a textual explanation (in markdown).
-13. Don't forget to add a textual description of your thought process, the assumptions you made, and your results!
-14. Please write all your comments in English, and use meaningful variable names in your code.
-15. We suggest that you not obsess over small details in the beginning, and try to complete as many tasks as possible during the first 2 hours. Then, go back to the obtained results, write meaningful comments, and debug your code if you have found any glaring mistake.
-16. Fully read the instructions for each question before starting to solve it to avoid misunderstandings, and remember to save your notebook often!
-17. We will **not run your notebook for you**! Rather, we will grade it as is, which means that only the results contained in your evaluated code cells will be considered, and we will not see the results in unevaluated code cells. Thus, be sure to hand in a **fully-run and evaluated notebook**.
-18. In continuation to the previous point, interactive plots, such as those generated using `plotly`, should be **strictly avoided**!
-19. Remember, this is not a homework assignment -- no teamwork allowed!
+11. For questions containing the **/Discuss:/** prefix, answer not with code, but with a textual explanation (in markdown).
+12. Don't forget to add a textual description of your thought process, the assumptions you made, and your results!
+13. Please write all your comments in English, and use meaningful variable names in your code.
+14. We suggest that you not obsess over small details in the beginning, and try to complete as many tasks as possible during the first 2 hours. Then, go back to the obtained results, write meaningful comments, and debug your code if you have found any glaring mistake.
+15. Fully read the instructions for each question before starting to solve it to avoid misunderstandings, and remember to save your notebook often!
+16. We will **not run your notebook for you**! Rather, we will grade it as is, which means that only the results contained in your evaluated code cells will be considered, and we will not see the results in unevaluated code cells. Thus, be sure to hand in a **fully-run and evaluated notebook**.
+17. In continuation to the previous point, interactive plots, such as those generated using `plotly`, should be **strictly avoided**!
+18. Remember, this is not a homework assignment -- no teamwork allowed!
 
 ## Submission
 * You will have until 18:30 (strict deadline) to turn in your submission. **Late submissions will not be accepted.**
