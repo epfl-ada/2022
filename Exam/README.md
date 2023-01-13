@@ -60,7 +60,7 @@ We allow a grace period of 15 minutes for you to submit your solved IPython note
    *Note-3: Multiple submissions are allowed. We will only consider the **latest** submission before the deadline and ignore all other previous submissions.*
    * On successful submission, you should receive an acknowledgement email from forms-receipts-noreply@google.com. If you don't receive an acknowledgement email (check your ‘spam’ and ‘junk’ folders as well) by 19:30, please notify us by sending an email to ada-core-assistants-2022@groupes.epfl.ch.
    * In case of problems with the form, send your Jupyter Notebook via email to ada-core-assistants-2022@groupes.epfl.ch. This is reserved only for those who encounter problems with the submission - you need to have a **reasonable justification** for using this backup.
-* For students **without** an EPFL email address:
+* For students either **without** an EPFL email address or participating in the **extramural exam**:
    * Your file has to be named (in *titlecase*) as "YourFirstName_YourLastName.ipynb". For example, if your first name is 'Abc', and last name is 'Xyz', please name your file as 'Abc_Xyz.ipynb'.   
    **Note: We won't grade your exam if the file is not properly named, thus, be extra careful in this regard.**   
    * Send your Jupyter Notebook (1 file) via email to ada-core-assistants-2022@groupes.epfl.ch.
